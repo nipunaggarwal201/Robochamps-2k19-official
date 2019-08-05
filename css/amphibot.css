@@ -7,8 +7,8 @@ License: https://webthemez.com/license
 # General
 --------------------------------------------------------------*/
 body {
-  background: #030e60;
-  color: #c393cb;
+  background: #5f627a;
+  color: #36c2cc;
   font-family: "Open Sans", sans-serif;
 }
 /*#particles-js{
@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-content h2 {
-  color: #ff377b;
+  color: #37f8ff;
   margin-bottom: 30px;
   font-size: 24px;
   font-weight: 700;
@@ -549,7 +549,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header h2 {
   font-size: 32px;
-  color: #E91E63;
+  color: rgb(30, 233, 216);
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -610,7 +610,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .content h3 {
-  color: #d640ef;
+  color: #36c2cc;
   font-weight: 300;
   font-size: 18px;
   line-height: 26px;
