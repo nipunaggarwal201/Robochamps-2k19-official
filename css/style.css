@@ -244,7 +244,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-content .btn-get-started {
-  background: transparent;
+  background: #fff;
   border: 2px solid #6E8B51;
   color: #6E8B51;
 }

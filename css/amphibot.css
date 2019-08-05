@@ -7,7 +7,7 @@ License: https://webthemez.com/license
 # General
 --------------------------------------------------------------*/
 body {
-  background: #280045;
+  background: #030e60;
   color: #c393cb;
   font-family: "Open Sans", sans-serif;
 }
@@ -1140,16 +1140,16 @@ p.help-block li {
 
 #team .member .pic img {
   max-width: 100%;
-  border-bottom: 4px solid rgb(221, 226, 198);
+  border-bottom: 4px solid #E91E63;
   /* padding: 20px 20px 0; */
 }
 
 #team .member .details {
   background: #fff;
-  color: rgb(93, 129, 73);
+  color: #E91E63;
   padding: 15px 0;
   border-radius: 0 0 3px 3px;
-  border: #fff; 1px solid;
+  border: #E91E63; 1px solid;
 }
 
 #team .member h4 {
